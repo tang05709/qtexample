@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/wechat.png</file>
+        <file>image/bar.png</file>
+        <file>image/search.png</file>
+        <file>image/title.png</file>
+        <file>image/tool.png</file>
+    </qresource>
+</RCC>
