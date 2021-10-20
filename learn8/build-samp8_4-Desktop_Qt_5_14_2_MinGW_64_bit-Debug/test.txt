@@ -1,4 +1,0 @@
-Tom,1977-01-05,worker,1500
-Jack,1978-12-23,doctor,3000
-Alice,1980-09-06,teacher,2500
-John,1983-04-25,solider,3500
